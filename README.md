@@ -52,6 +52,60 @@ Whether you're learning Selenium or building enterprise automation, this framewo
 
 ---
 
+# 🏗️ Supported Design Patterns
+
+This framework is built using proven **Object-Oriented Design Principles** and widely adopted **Automation Design Patterns** to improve scalability, maintainability, and code reusability.
+
+| Design Pattern | Description | Benefits |
+|----------------|-------------|----------|
+| 🔒 **Singleton Pattern** | Ensures only one instance of WebDriver or shared resources exists during execution. | Efficient resource management, consistent driver lifecycle, reduced memory usage. |
+| 🏭 **Factory Design Pattern** | Centralizes the creation of WebDriver instances and framework components. | Easy browser switching, extensible architecture, cleaner code. |
+| 🔗 **Fluent / Chain of Responsibility Pattern** | Enables readable, chainable method calls for page actions and workflow execution. | Improved readability, expressive test scripts, simplified maintenance. |
+| 📊 **Data-Driven Pattern** | Separates test data from test logic using external data sources such as Excel, CSV, JSON, or Properties files. | Reusable test cases, easier data management, broader test coverage. |
+
+---
+
+## 💡 Why Design Patterns?
+
+This framework follows industry-standard design patterns to deliver:
+
+- ✅ Better code reusability
+- ✅ Low maintenance cost
+- ✅ Modular architecture
+- ✅ Cleaner implementation
+- ✅ Enterprise-ready structure
+- ✅ Easy onboarding for new contributors
+- ✅ Scalable automation solution
+- ✅ Improved readability
+- ✅ Faster framework enhancements
+- ✅ Reduced code duplication
+
+---
+
+## 🎯 Framework Architecture Highlights
+
+✔ Object-Oriented Programming (OOP)
+
+✔ Singleton Design Pattern
+
+✔ Factory Design Pattern
+
+✔ Fluent Interface Pattern
+
+✔ Chain of Responsibility Pattern
+
+✔ Data-Driven Testing Pattern
+
+✔ Page Object Model (POM)
+
+✔ Reusable Utility Components
+
+✔ Configuration-Driven Execution
+
+✔ Extensible Framework Design
+
+---
+
 # 🔥 Top 10 Reasons to Use This Framework
 
 ## 1️⃣ Clean Project Structure
