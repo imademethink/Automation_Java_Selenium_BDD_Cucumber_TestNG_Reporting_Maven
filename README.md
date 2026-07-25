@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Selenium Automation Framework
+# 🚀 Java Selenium BDD Cucumber TestNG HTML-Reporting Maven based Automation Framework
 ### Production-Ready Java Selenium BDD Automation Framework
 
 <p align="center">
