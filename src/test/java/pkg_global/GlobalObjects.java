@@ -20,7 +20,7 @@ public class GlobalObjects {
     // Browser instance
     public static WebDriver realDriver = null;
     public static boolean bBrowserInvoked = false;
-    public static String chromeDriverPath = "\\src\\test\\resources\\chrome_driver\\chromedriver_new.exe";
+    public static String chromeDriverPath = "\\src\\test\\resources\\chrome_driver\\chromedriver.exe";
 
     // Urls
     public static String sUrlHome = "https://parabank.parasoft.com/parabank/index.htm";
